@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "🇮🇳 Creator 🇮🇳", url="https://t.me/MrC_VENOM")
+                        "🇮🇳 Creater 🇮🇳", url="https://t.me/MrC_VENOM")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
