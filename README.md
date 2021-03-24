@@ -8,22 +8,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/nandhunair1/Unlimited-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/nandhunair1/Unlimited-Filter-Bot?style=social">
 
   </a>
   
   <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/nandhunair1/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![All In One](https://img.shields.io/badge/Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TV_SERIES_ON)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![All In One](https://img.shields.io/badge/Support-red?style=flat&logo=telegram)](https://telegram.dog/tvseriezzz)  [![All In One](https://img.shields.io/badge/Website-red?style=flat&logo=CodersRank)](https://MrC_VENOM.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/nandhunair1/Unlimited-Filter-Bo/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/nandhunair1/Unlimited-Filter-Bot)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -74,7 +74,7 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+## [Developer](https//t.me/MrC_VENOM)
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
@@ -89,7 +89,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone https://github.com/nandhunair1/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
