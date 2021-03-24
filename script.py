@@ -2,8 +2,9 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+എന്നെ മറ്റുള്ള ഗ്രൂപ്പിൽ ചേർക്കാമെന്നു വിചാരിക്കണ്ട.
+😎➠ᴄʜᴀɴɴᴇʟ : @TV_SERIES_ON | @A_IN_O_C
+😎➠Group : @tvseriezzz
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,13 +49,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @MrC_VENOM</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : ♠️ 𝑨𝒍𝒍 𝑰𝒏 𝑶𝒏𝒆 𝑮𝒓𝒐𝒖𝒑 Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @MrC_VENOM    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
