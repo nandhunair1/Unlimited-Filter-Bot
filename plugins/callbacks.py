@@ -61,7 +61,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "🇮🇳 creator 🇮🇳", url="https://t.me/MrC_VENOM")
+                        "🇮🇳 creater 🇮🇳", url="https://t.me/MrC_VENOM")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
