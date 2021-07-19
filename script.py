@@ -3,8 +3,13 @@ class Script(object):
     START_MSG = """<b>Hy {},
 
 എന്നെ മറ്റുള്ള ഗ്രൂപ്പിൽ ചേർക്കാമെന്നു വിചാരിക്കണ്ട.
-😎➠ᴄʜᴀɴɴᴇʟ : @TV_SERIES_ON | @A_IN_O_C
-😎➠Group : @tvseriezzz
+
+😎➠ Update ᴄʜᴀɴɴᴇʟ : @tvseriezzz_update
+
+😎➠ Main Group : @tvseriezzz 
+
+😎➠ Chat Group : @MrCVENOM_chat
+
 
 See <i>/help</i> for commands and more details.</b>
 """
