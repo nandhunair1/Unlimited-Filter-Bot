@@ -8,10 +8,7 @@ class Script(object):
 
 😎➠ Main Group : @tvseriezzz 
 
-😎➠ Chat Group : @MrCVENOM_chat
-
-
-See <i>/help</i> for commands and more details.</b>
+😎➠ Chat Group : @MrCVENOM_chat</b>
 """
 
 
