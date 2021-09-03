@@ -219,7 +219,6 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(text="👨‍💼 Master", url="t.me/Mrc_VENOM"),  InlineKeyboardButton(text="Help 🤔",callback_data="help_back")],
                      [InlineKeyboardButton(text="🛡 Group 🛡", url="t.me/tvseriezzz")],
-                     [InlineKeyboardButton(text="🎭 Chat Group 🎭", url="t.me/MrCVENOM_chat"), InlineKeyboardButton(text="📢 Updates 📢", url="t.me/tvseriezzz_update"))
                 ]
             ]
         ),
